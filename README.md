@@ -4,12 +4,8 @@
 💻 Foco em Desenvolvimento Web  
 🚀 Buscando estágio em tecnologia  
 
-## Tecnologias
-• HTML
-• CSS
-• JavaScript
-• SQL
-• Git básico
+## 💻 Tecnologias
+![HTML](badge-url) ![CSS](badge-url) ![JavaScript](badge-url) ![SQL](badge-url)
 
 ## Projetos
 🔹 Página Web Responsiva  
