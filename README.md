@@ -5,7 +5,7 @@
 🚀 Buscando estágio em tecnologia  
 
 ## 💻 Tecnologias
-![HTML](badge-url) ![CSS](badge-url) ![JavaScript](badge-url) ![SQL](badge-url)
+HTML • CSS • JavaScript • SQL • Git básico
 
 ## Projetos
 🔹 Página Web Responsiva  
