@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá! Eu sou a Anna Clara 👋
 
-<!--
-**AnnaClaraNeri/AnnaClaraNeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Sistemas  
+💻 Foco em Desenvolvimento Web  
+🚀 Buscando estágio em tecnologia  
 
-Here are some ideas to get you started:
+## Tecnologias
+• HTML
+• CSS
+• JavaScript
+• SQL
+• Git básico
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos
+🔹 Página Web Responsiva  
+🔹 Exercícios de Lógica em JavaScript  
+🔹 Consultas SQL  
+
+👉 Veja meus repositórios abaixo!
+
+## Contato
+LinkedIn: www.linkedin.com/in/annaclarasouzaneri
