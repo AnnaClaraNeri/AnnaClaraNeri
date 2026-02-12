@@ -19,5 +19,5 @@ HTML • CSS • JavaScript • SQL • Git básico
 👉 Confira os repositórios fixados abaixo!
 
 ## 📫 Contato
-LinkedIn: www.linkedin.com/in/annaclarasouzaneri
+LinkedIn: www.linkedin.com/in/annaclarasouzaneri  
 GitHub: github.com/AnnaClaraNeri
