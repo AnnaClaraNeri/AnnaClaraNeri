@@ -2,17 +2,19 @@
 
 🎓 Estudante de Engenharia de Sistemas  
 💻 Foco em Desenvolvimento Web  
-🚀 Buscando estágio em tecnologia  
+🚀 Buscando estágio em desenvolvimento
 
 ## 💻 Tecnologias
 HTML • CSS • JavaScript • SQL • Git básico
 
-## Projetos
-🔹 Página Web Responsiva  
+## 📂 Projetos em destaque
+🔹 Página Web Responsiva (HTML/CSS)  
 🔹 Exercícios de Lógica em JavaScript  
 🔹 Consultas SQL  
+🔹 To-Do List com JavaScript (manipulação de DOM)
 
-👉 Veja meus repositórios abaixo!
+👉 Confira os repositórios fixados abaixo!
 
-## Contato
+## 📫 Contato
 LinkedIn: www.linkedin.com/in/annaclarasouzaneri
+GitHub: github.com/AnnaClaraNeri
