@@ -20,4 +20,4 @@ HTML • CSS • JavaScript • SQL • Git básico
 
 ## 📫 Contato
 LinkedIn: www.linkedin.com/in/annaclarasouzaneri  
-GitHub: github.com/AnnaClaraNeri
+GitHub: [github.com/AnnaClaraNeri](https://github.com/AnnaClaraNeri)
