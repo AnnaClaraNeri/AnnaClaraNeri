@@ -4,6 +4,9 @@
 💻 Foco em Desenvolvimento Web  
 🚀 Buscando estágio em desenvolvimento
 
+## Sobre mim
+Gosto de resolver problemas com tecnologia e estou desenvolvendo projetos práticos para fortalecer minhas habilidades em programação e desenvolvimento web.
+
 ## 💻 Tecnologias
 HTML • CSS • JavaScript • SQL • Git básico
 
